@@ -1,0 +1,8 @@
+#informacion{
+  display: flex;
+  flex-direction: column;
+}
+.datos{
+  display: flex;
+
+}

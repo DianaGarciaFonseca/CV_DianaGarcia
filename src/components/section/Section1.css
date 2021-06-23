@@ -1,0 +1,45 @@
+.datosp{
+	max-width: 400px;
+	width: 100%;
+	min-height: 500px;
+	height: 100%;
+	text-align: center;
+	background-color: #F3F3F3;
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 3px 0px 7px #000000;
+	float: left;
+
+}
+img{
+	min-width: 100px;
+	width: 50%;
+	max-height: 170px;
+	height: 100%;
+	border-radius: 100%;
+	border: 7px solid #EEBEBE;
+
+}
+h2{
+	text-align: left;
+	color: #E86294;
+	padding-bottom: 20px;
+	font-weight: bolder;		
+}
+h3{
+	text-align: left;
+}
+
+.info2{
+	text-align: left;
+	font-size: 12px;
+	padding: 0 30px;
+
+}
+p{
+	justify-content: justify;
+	font-size: 18px;
+}
+.titulo{
+	text-align: center;
+}

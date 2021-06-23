@@ -1,0 +1,64 @@
+.info{
+	max-width: 400;
+	width: 100%;
+	font-family: 'EB Garamond', serif;
+
+
+
+}
+.principal1{
+	max-width: 400px;
+	width: 100%;
+	min-height: 500px;
+	height: 100%;
+	text-align: center;
+	background-color: #EEBEBE;
+	padding: 30px;
+	border-radius: 10px;
+	box-shadow: 3px 3px 7px #000000;
+	float: right;
+}
+.academico{
+	padding: 20px;
+}
+.principal1 p{
+	text-align: justify;
+	padding-top: 50px;
+}
+.link{
+	list-style: none;
+	padding-top: 40px;
+}
+
+.boton1 li{
+	text-decoration: underline;
+	font-family: 'EB Garamond', serif;
+	font-size: 30px;
+	color:#E86294;
+	text-align: center;
+	border-radius: 5px;
+	
+}
+.boton1 li:hover{
+	color: gray;
+	border-radius: 5px;
+}
+.boton1{
+	text-align: center;
+}
+h6{
+	font-size: 18px;
+	padding-top: 10px;
+}
+h4{
+	font-weight: bolder;
+	padding-top: 10px;
+}
+h2{
+	padding-top: 20px;
+}
+.boton1{
+	padding-top: 30px;
+}
+
+
