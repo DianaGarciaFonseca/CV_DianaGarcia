@@ -1,6 +1,7 @@
+"homepage":"https://DianaGarciaFonseca.github.io/CV_DianaGarcia",
 {
-  "homepage":"https://DianaGarciaFonseca.github.io/cv_dianaviviana_garciafonseca",
-  "name": "cv_dianaviviana_garciafonseca",
+  
+  "name":"CV_DianaGarcia",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
