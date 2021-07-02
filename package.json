@@ -1,4 +1,4 @@
-"homepage":"https://DianaGarciaFonseca.github.io/CV_DianaGarcia",
+
 {
   
   "name":"CV_DianaGarcia",
@@ -16,6 +16,8 @@
     "styled-components": "^5.3.0",
     "web-vitals": "^1.1.2"
   },
+  "homepage":"http://DianaGarciaFonseca.github.io/CV_DianaGarcia",
+
   "scripts": {
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
