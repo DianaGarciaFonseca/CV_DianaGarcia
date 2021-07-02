@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/CV_DianaGarcia/static/css/main.20f5bc9a.chunk.css",
+    "main.js": "/CV_DianaGarcia/static/js/main.2e61dbff.chunk.js",
+    "main.js.map": "/CV_DianaGarcia/static/js/main.2e61dbff.chunk.js.map",
+    "runtime-main.js": "/CV_DianaGarcia/static/js/runtime-main.1ab119c0.js",
+    "runtime-main.js.map": "/CV_DianaGarcia/static/js/runtime-main.1ab119c0.js.map",
+    "static/js/2.02084b96.chunk.js": "/CV_DianaGarcia/static/js/2.02084b96.chunk.js",
+    "static/js/2.02084b96.chunk.js.map": "/CV_DianaGarcia/static/js/2.02084b96.chunk.js.map",
+    "static/js/3.4638a899.chunk.js": "/CV_DianaGarcia/static/js/3.4638a899.chunk.js",
+    "static/js/3.4638a899.chunk.js.map": "/CV_DianaGarcia/static/js/3.4638a899.chunk.js.map",
+    "index.html": "/CV_DianaGarcia/index.html",
+    "static/css/main.20f5bc9a.chunk.css.map": "/CV_DianaGarcia/static/css/main.20f5bc9a.chunk.css.map",
+    "static/js/2.02084b96.chunk.js.LICENSE.txt": "/CV_DianaGarcia/static/js/2.02084b96.chunk.js.LICENSE.txt",
+    "static/media/FOTO4.b3ca774c.jpg": "/CV_DianaGarcia/static/media/FOTO4.b3ca774c.jpg",
+    "static/media/github-brands.e2f07326.svg": "/CV_DianaGarcia/static/media/github-brands.e2f07326.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ab119c0.js",
+    "static/js/2.02084b96.chunk.js",
+    "static/css/main.20f5bc9a.chunk.css",
+    "static/js/main.2e61dbff.chunk.js"
+  ]
+}
